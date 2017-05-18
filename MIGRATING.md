@@ -8,6 +8,6 @@ Hello, I would like to migrate [REPOSITORY] to Fruitful.
 
 That's all - you don't need to explain yourself for wanting to hand over maintenance. We understand, that's why we're here. Of course, you can add a description of what your project is about or anything you'd like, really.
 
-After you've made your request, one of our owners is going to invite you into our GitHub organization. At this point, you should be able to transfer your repository using GitHub's included tools.
+After you've made your request, one of our admins is going to invite you into our GitHub organization. At this point, you should be able to transfer your repository using GitHub's included tools.
 
 Of course, your repository is going to enjoy the same benefits that all others have, such as access to our tooling (Danger, Greenkeeper, Travis, etc.) and our community.
