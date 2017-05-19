@@ -17,7 +17,7 @@ description of what your project is about or anything you'd like, really.
 
 ## Transferring
 
-After you've made your request, one of our owners is going to invite you into
+After you've made your request, one of our admins is going to invite you into
 our GitHub organization. At this point, you should be able to transfer your
 repository using GitHub's included tools.
 
