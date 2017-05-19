@@ -44,3 +44,10 @@ do this by running the following command:
 ```sh
 npm deprecate <your-old-package-name> "This package is now available at @fruitful/<your-package-name>"
 ```
+
+After you've made your request, one of our admins is going to invite you into our GitHub organization. At this point, you should be able to transfer your repository using GitHub's included tools.
+
+Of course, your repository is going to enjoy the same benefits that all others have, such as access to our tooling (Danger, Greenkeeper, Travis, etc.) and our community.
+
+_(This document is a living document. The process of migration might change as time goes on, and as such, this document will get updated as well)_
+

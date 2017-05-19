@@ -23,3 +23,9 @@ That's why we're crowd-sourcing it.
 Being a community of volunteers, we highly rely on two things: more volunteers,
 and, robots. Every contributor is offered an
 [invite](https://github.com/Moya/Aeryn) by a friendly robot.
+
+## What?
+
+We accept projects of any size and of any niche. If you have a personal or
+professional need for a project, then there might be other people who have
+a similar interest in seeing that project NOT die.
