@@ -28,10 +28,7 @@ to our npm organization. Once that's done, you can rename the `name` field in
 your `package.json` to this:
 
 ```json
-{
-  "name": "@fruitful/<your-package-name>",
-  // and so on
-}
+"name": "@fruitful/<your-package-name>"
 ```
 
 Then, you can simply run `npm publish` to republish your package under our
