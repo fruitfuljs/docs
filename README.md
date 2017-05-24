@@ -6,6 +6,6 @@ adopted or abandoned JavaScript packages. Read more about us on our
 
 ## Documentation
 
-- [Migrating](https://github.com/fruitfuljs/fruitfuljs/blob/master/MIGRATING.md)
+- [Migrating] - (https://github.com/fruitfuljs/fruitfuljs/blob/master/MIGRATING.md)
   Information on how to transfer a library over to Fruitful.
 
